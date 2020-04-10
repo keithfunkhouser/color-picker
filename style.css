@@ -1,0 +1,11 @@
+.picker-form-container {
+	width: 20em;
+	margin: 30px auto;
+}
+
+#color-box {
+	background-color: rgb(0, 0, 0);
+	height: 20em;
+	width: 20em;
+	margin: auto;
+}
